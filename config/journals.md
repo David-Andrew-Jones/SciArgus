@@ -31,4 +31,8 @@ JAMA Network Open
 Cancer Epidemiology 
 British Journal of Cancer
 European Journal of Cancer
+Value in Health
+Medical Decision Making
+Pharmacoeconomics
+Applied Health Economics and Health Policy
 
